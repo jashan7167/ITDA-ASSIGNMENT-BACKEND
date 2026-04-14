@@ -1,0 +1,17 @@
+.git
+.gitignore
+.gradle
+build
+out
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+.env
+*.log
+Pictures
+INTERVIEW_CONCEPTS_GUIDE.md
+README.md
+API_REFERENCE.md
+sql
