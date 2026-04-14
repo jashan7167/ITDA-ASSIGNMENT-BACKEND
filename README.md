@@ -121,6 +121,8 @@ http://localhost:8080/api
 
 ## API Summary
 
+Full endpoint details, request/response examples, and WebSocket payloads are documented in [API_DOCUMENTATION.md](API_DOCUMENTATION.md).
+
 ### Authentication
 
 - `POST /api/auth/register`
